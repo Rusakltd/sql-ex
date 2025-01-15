@@ -1,0 +1,9 @@
+/.env
+Dockerfile
+*.txt
+/__pycache__
+.ipnb_checkpoints
+/.ipnb_checkpoints
+test/
+.DS_Store
+*.ipynb
